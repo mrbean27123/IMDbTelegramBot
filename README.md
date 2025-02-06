@@ -1,4 +1,4 @@
-# IMDB Telegram Bot
+# IMDb Telegram Bot
 
 Этот бот получает топ фильмов и сериалов с IMDB и отправляет их в Telegram-группу.
 
